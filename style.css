@@ -1,0 +1,25 @@
+body {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	font-family: "Helvetica Neue";
+	font-size: 2.3em;
+	background: url('qg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color: rgb(254, 245, 196);
+	font-weight: 500;
+}
+
+.overlay {
+	width: 100%;
+	height: 100vh;
+	background: rgba(0, 0, 0, 0.2);
+}
+
+img {
+	padding-top: 10%;
+	width: 300px;
+}
